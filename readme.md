@@ -1,0 +1,1 @@
+Used this Odin Project assignment as a refresher on basic HTML tags such as images and different variations of the list tag.
